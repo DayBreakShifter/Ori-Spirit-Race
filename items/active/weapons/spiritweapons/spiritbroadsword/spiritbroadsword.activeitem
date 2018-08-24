@@ -10,7 +10,7 @@
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","broadsword","upgradeableWeapon"],
   "inventoryIcon" : "spiritbroadsword.png",
-  "animation" : "/items/active/weapons/spiritweapons/spiritcombobroadsword.animation",
+  "animation" : "spiritcombobroadsword.animation",
   "animationParts" : {
     "handle" : "",
     "blade" : "spiritbroadsword.png"
