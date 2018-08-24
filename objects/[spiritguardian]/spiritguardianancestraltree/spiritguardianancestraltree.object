@@ -1,0 +1,61 @@
+{
+  "objectName" : "spiritguardianancestraltree",
+  "colonyTags" : ["spiritguardian", "decorative"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "lightColor" : [200, 235, 255],
+  "lightPosition" : [-1, 0],
+  "price" : 250,
+  "description" : "This ancestral tree marks the final resting place of a Guardian Spirit.",
+  "shortdescription" : "Ancestral Tree",
+  "race" : "spiritguardian",
+  "apexDescription" : "This is the grave of a Spirit Guardian.",
+  "avianDescription" : "This spirit has moved on, yet it's light still lives.",
+  "floranDescription" : "Glowy sspirit died here..",
+  "glitchDescription" : "Sad. This ancestral tree is a grave.",
+  "humanDescription" : "This tree has a light on top of it.",
+  "hylotlDescription" : "The spirit has passed on into the next life, leaving behind it's power.",
+  "novakidDescription" : "This here tree used to be one of those guardian spirits.",
+  "spiritguardianDescription" : "This ancestral tree marks one of our graves.",
+  
+  
+ "particleEmitters" : [
+    {
+        "emissionRate" : 3,
+        "emissionVariance" : 0.5,
+        "pixelOrigin" : [0, 21],
+
+        "particle" : {
+         "type" : "animated",
+         "animation" : "/animations/ancestraltreepetals/ancestraltreepetals.animation",
+          "size" : 0.5,
+          "position" : [10, 12],
+          "fade" : 0.9,
+          "destructionAction" : "shrink",
+          "destructionTime" : 0.5,
+          "initialVelocity" : [-3, -1.5],
+          "finalVelocity" : [-6, -3],
+          "approach" : [10, 10],
+          "angularVelocity" : 20,
+          "timeToLive" : 6.0,
+          "layer" : "back"
+        },
+        "particleVariance" : {
+            "position" : [10, 2],
+            "finalVelocity" : [2.5, 1]
+        }
+    }
+  ],
+  
+  "inventoryIcon" : "spiritguardianancestraltreeicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "spiritguardianancestraltree.png:<color>.<frame>", "fullbright" : true }, { "image" : "spiritguardianancestraltreelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, -8],
+      "frames" : 8,
+      "animationCycle" : 2.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

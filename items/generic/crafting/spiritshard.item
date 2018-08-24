@@ -1,0 +1,10 @@
+{
+  "itemName" : "spiritshard",
+  "price" : 5500,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "spiritshard.png",
+  "description" : "A crystal containing the wisdom and power of a Guardian Spirit...",
+  "shortdescription" : "Spirit Shard",
+  "itemTags" : [ "reagent" ]
+}

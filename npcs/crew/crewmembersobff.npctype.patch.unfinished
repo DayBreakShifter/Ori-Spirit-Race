@@ -1,0 +1,56 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/offer/spiritguardian",
+    "value": {
+      "default": [
+        "spiritguardian offer"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/spiritguardian",
+    "value": {
+      "default": [
+        "spiritguardian roledescription"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/respawned/spiritguardian",
+    "value": {
+      "default": [
+        "spiritguardian respawned"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/spiritguardian",
+    "value": {
+      "default": [
+        "spiritguardian unfollow"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/follow/spiritguardian",
+    "value": {
+      "default": [
+        "spiritguardian follow"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/spiritguardian",
+    "value": {
+      "default": [
+        "spiritguardian cantreach"
+      ]
+    }
+  }
+]

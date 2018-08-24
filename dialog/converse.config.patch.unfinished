@@ -1,0 +1,130 @@
+[
+  {
+    "op": "add",
+    "path": "/greeting/spiritguardian",
+    "value": {
+      "default": [
+        "Hiya!",
+        "What's up?",
+        "Need something?",
+        "Hello.",
+        "Yes?",
+        "You want to talk?",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/converse/spiritguardian",
+    "value": {
+      "generic": [
+        "Hm?"
+      ],
+      "default": [
+        "spiritguardian default"
+      ],
+      "apex": [
+        "spiritguardian to apex"
+      ],
+      "avian": [
+        "spiritguardian to avian"
+      ],
+      "floran": [
+        "spiritguardian to floran"
+      ],
+      "glitch": [
+        "spiritguardian to glitch"
+      ],
+      "human": [
+        "spiritguardian to human"
+      ],
+      "hylotl": [
+        "spiritguardian to hylotl"
+      ],
+      "novakid": [
+        "spiritguardian to novakid"
+      ],
+      "spiritguardian": [
+        "spiritguardian to spiritguardian"
+      ],
+      "avali": [
+        "spiritguardian to avali"
+      ],
+      "lucario": [
+        "spiritguardian to lucario"
+      ],
+      "lyceen": [
+        "spiritguardian to lyceen"
+      ],
+      "kemono": [
+        "spiritguardian to kemono"
+      ],
+      "familiar": [
+        "spiritguardian to familiar"
+      ],
+      "dragon": [
+        "spiritguardian to draconis"
+      ],
+      "novali": [
+        "spiritguardian to novali"
+      ],
+      "fenerox": [
+        "spiritguardian to fenerox"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/converse/apex/spiritguardian",
+    "value": [
+      "apex to spiritguardian"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/hylotl/spiritguardian",
+    "value": [
+      "hylotl to spiritguardian"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/spiritguardian",
+    "value": [
+      "avian to spiritguardian"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/human/spiritguardian",
+    "value": [
+      "human to spiritguardian"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/floran/spiritguardian",
+    "value": [
+      "floran to spiritguardian"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/glitch/spiritguardian",
+    "value": [
+      "glitch to spiritguardian"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/novakid/spiritguardian",
+    "value": [
+      "novakid to spiritguardian"
+    ]
+  }
+]

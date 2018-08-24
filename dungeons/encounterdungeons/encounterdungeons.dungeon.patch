@@ -1,0 +1,50 @@
+[
+  {
+    "op": "add",
+    "path": "/metadata/anchor/-",
+    "value": "spiritguardiantree"
+  },
+//  {
+//    "op": "add",
+//    "path": "/metadata/anchor/-",
+//    "value": "spiritguardianhousetest"
+//  },
+//  {
+//    "op": "add",
+//    "path": "/parts/-",
+//    "value": {
+//      "name": "spiritguardianhousetest",
+//      "rules": [
+//        [
+//          "maxSpawnCount",
+//          [
+//            1
+//          ]
+//        ]
+//      ],
+//      "def": [
+//        "tmx",
+//        "spiritguardianhousetest.json"
+//      ]
+//    }
+//  },
+  {
+    "op": "add",
+    "path": "/parts/-",
+    "value": {
+      "name": "spiritguardiantree",
+      "rules": [
+        [
+          "maxSpawnCount",
+          [
+            1
+          ]
+        ]
+      ],
+      "def": [
+        "tmx",
+        "spiritguardiantree.json"
+      ]
+    }
+  }
+]

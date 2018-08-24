@@ -1,0 +1,11 @@
+{
+  "author" : "DustFox",
+  "description" : "Since I've had Ori on the mind for a while now, I decided I might as well make a mod from it.\n\nFuture Plans:\n- Generated Settlements\n- Generated Ancestral Tree Loot\n- Possible custom ship\n- Custom scan dialogue\n- Custom outfits\n- More hairstyles\n- Custom weapons\n\nI might possibly open this up to Github for more people to contribute if I can ever figure out a good system [spoiler]and if my internet would just work like it's supposed to[/spoiler]\n\nCredits:\n- Skittles for the Template\n- Kawa for the scan dialogue batch thing\n- Moon Studios for creating Ori and the Blind Forest, as well as Ori and the Will of the Wisps",
+  "friendlyName" : "OaTBF - Spirit Guardian Race [OPEN ALPHA]",
+  "link" : "steam://url/CommunityFilePage/1485177055",
+  "name" : "Ori Mod",
+  "path" : ".",
+  "steamContentId" : "1485177055",
+  "tags" : "Species",
+  "version" : "Open Alpha 1.2"
+}
